@@ -1,6 +1,6 @@
 ## Description
 
-<!-- Briefly describe what this MR is about.  -->
+<!-- Briefly describe what this PR is about.  -->
 
 ## Related issues
 
